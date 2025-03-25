@@ -53,4 +53,6 @@ Once your `.wav file` is correctly saved, you can open it and listen to the `cap
 
 ![listen_kbkf_2](https://github.com/user-attachments/assets/8378dc9b-16d7-489b-8376-ae1dd14d8f58)
 
+![listen](https://github.com/user-attachments/assets/791fb9d9-34bf-47c8-a6d4-e33807c9cd5d)
+
 What's particularly interesting is that we can `reverse-engineer` the captured stream by displaying the `spectrum` at `each frame` of the `.wav file`.
