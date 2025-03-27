@@ -39,7 +39,7 @@ To do this, use the following command:
 
     ffmpeg -i http://d.liveatc.net/kbkf1_atis.mp3 capture_kbkf_atis.wav
 
-We can clearly see that it correctly identifies the stream as ATC and also provides the precise name of the channel we are listening to.
+We can clearly see that it correctly identifies the stream as `ATC` and also provides the precise name of the channel `ATIS` (Automatic Terminal Information Service) we are listening to.
 
 You can also use this command for more accurate capture using the provided information, such as the 8000 Hz sample rate:
 
